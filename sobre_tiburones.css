@@ -1,0 +1,29 @@
+body {
+    background-color: #792e97;
+}
+h1 {
+    color: #007bff;
+}
+h2 {
+    color: #28a745;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
